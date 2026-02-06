@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "zip": "sh ./scripts/create-zip.sh",
-    "deploy": "gh-pages -d dist"
+    "zip": "sh ./scripts/create-zip.sh"
   },
   "dependencies": {
     "@hugeicons/core-free-icons": "^3.1.1",
